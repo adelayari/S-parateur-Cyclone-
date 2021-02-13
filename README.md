@@ -1,4 +1,4 @@
-#Séparateurcyclone
+# Séparateur cyclone
 
 Un cyclone est une unité technologique imposant une rotation rapide à un gaz afin d'en séparer les fines particules solides qui y sont mélangées. Ce procédé ne peut s'appliquer aux petites particules (poussières d'un diamètre de l'ordre d'un centième de millimètre) qui ont tendance à suivre la même trajectoire que le flux gazeux.
 
